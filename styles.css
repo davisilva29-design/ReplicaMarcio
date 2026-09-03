@@ -1,0 +1,70 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.perfil {
+    width: 398px;
+    height: 550px;
+    border: 3px solid #333;
+    margin: 5px auto 0 auto;
+   
+}
+
+.foto {
+    width: 174px;
+    height: 180px;
+    border: 3px solid #333;
+}
+
+.botao {
+    width: 153px;
+    height: 35px;
+    border: 3px solid #333;
+}
+
+.informacao {
+    width: 396px;
+    height: 30px;
+    border: 1px solid #999;
+}
+
+.primeiro {
+    width: 396px;
+    height: 40px;
+    border: 1px solid #999;
+    margin-bottom: 40px;
+}
+
+.segundo {
+    width: 396px;
+    height: 60px;
+    border: 1px solid #999;
+    margin-top: 20px;
+}
+
+.caixas {
+    margin-top: 15px;
+}
+
+.caixa {
+    display: inline-block;
+    width: 75px;
+    height: 67px;
+    border: 2px solid #333;
+}
+
+footer {
+    width: auto;
+    height: 20px;
+    border: 2px solid #333;
+    margin: 10px 20px 30px 40px;
+}
+
+.caixa1 {
+    width: 75px;
+    height: px;
+    border: 2px solid #333;
+
+}
